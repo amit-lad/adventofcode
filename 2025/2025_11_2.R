@@ -1,7 +1,3 @@
-library(here)
-library(data.table)
-library(igraph)
-library(tictoc)
 filepath <- here("data", "2025_11", "input")
 
 # Read the data

@@ -1,6 +1,3 @@
-library(here)
-library(data.table)
-
 filepath <- here("data", "2025_08", "input")
 num_connections <- 10
 

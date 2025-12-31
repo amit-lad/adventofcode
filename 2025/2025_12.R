@@ -1,7 +1,3 @@
-library(here)
-library(data.table)
-library(tictoc)
-
 filepath <- here("data", "2025_12", "input")
 
 # Load your input (replace 'input.txt' with your actual filename)

@@ -1,6 +1,3 @@
-library(here)
-library(data.table)
-
 input <-
   fread(
     file = here("data", "2025_02", "input"),

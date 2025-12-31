@@ -1,8 +1,3 @@
-library(here)
-library(data.table)
-library(tictoc)
-
-
 filepath <- here("data", "2025_10", "input")
 
 # Read with fread, treating the entire line as one column
