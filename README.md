@@ -12,6 +12,8 @@ My objective has been to solve the problems without the use of algorithms in ext
 
 The repository is structured as follows:
 
--   **`.Rprofile`** : File containing packages used to solve 
+-   **`.Rprofile`** : File containing packages used to solve problems
 -   **`20XX/`**: Directory for each year's solutions.
     -   **`20XX_YY.R`**: R script for solving the challenge of Day YY of Year 20XX.
+
+The puzzle data is not stored in this repository. 
